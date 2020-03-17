@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1005730919269",
+    "firebase_url": "https://lock-61989.firebaseio.com",
+    "project_id": "lock-61989",
+    "storage_bucket": "lock-61989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1005730919269:android:4c3a39e064a344c908e78c",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1005730919269-raqaiq8g9mg32dq0225dlo68o279kjbh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzF4ZOln0ckaEec083nil16cjBSnjhAyg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1005730919269-raqaiq8g9mg32dq0225dlo68o279kjbh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
